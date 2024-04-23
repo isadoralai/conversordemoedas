@@ -14,7 +14,6 @@ The API used in this project was: https://www.exchangerate-api.com/
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 📸 IMAGENS DO PROJETO
 
 
 
